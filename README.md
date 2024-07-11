@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @prufstein
 - 👀 I’m interested in bioinformatics 
-- 🌱 I’m currently learning github
+- 🌱 I write code that gets things done
 
